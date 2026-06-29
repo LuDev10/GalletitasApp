@@ -1,0 +1,19 @@
+# Xcode
+build/
+xcuserdata/
+DerivedData/
+Pods/
+*.ipa
+
+# Swift Package Manager
+.build/
+
+# macOS
+.DS_Store
+
+# Firebase secrets
+GoogleService-Info.plist
+
+# IDE
+*.swp
+*.swo
