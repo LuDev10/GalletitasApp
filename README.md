@@ -7,22 +7,27 @@ App nativa iOS de e-commerce para tienda de galletas artesanales.
 ## Screenshots
 
 <p float="left">
-  <img src="Screenshots/01-auth-landing.png" width="200" />
-  <img src="Screenshots/02-login.png" width="200" />
-  <img src="Screenshots/03-menu.png" width="200" />
-  <img src="Screenshots/04-cart.png" width="200" />
+  <img width="200" src="https://github.com/user-attachments/assets/50f28f3e-9473-423b-ab08-24594e5cc612" />
+  <img width="200" src="https://github.com/user-attachments/assets/95fff690-550b-4544-997f-036277a2c3d0" />
+  <img width="200" src="https://github.com/user-attachments/assets/acc38510-5412-473f-acf0-f02d0bcd6a8c" />
+  <img width="200" src="https://github.com/user-attachments/assets/4448e519-67ab-4bc8-8875-e8e915e93a69" />
 </p>
 <p float="left">
-  <img src="Screenshots/05-checkout.png" width="200" />
-  <img src="Screenshots/06-payment.png" width="200" />
-  <img src="Screenshots/07-order-detail.png" width="200" />
-  <img src="Screenshots/08-orders.png" width="200" />
+  <img width="200" src="https://github.com/user-attachments/assets/584c14f6-27c2-4206-a08b-20bce40237a0" />
+  <img width="200" src="https://github.com/user-attachments/assets/434a458b-3bb6-443c-9c54-9140861cb944" />
+  <img width="200" src="https://github.com/user-attachments/assets/a5d5b902-542e-4d42-80cb-2ca90e7c726a" />
+  <img width="200" src="https://github.com/user-attachments/assets/52116b42-a2e5-40d7-b4c6-0ee4cbf54b03" />
+  <img width="200" src="https://github.com/user-attachments/assets/7c1e8f7b-22e4-488f-82c9-83d34ff91e6e" />
+
+
+  <img width="200" src="https://github.com/user-attachments/assets/e95eec7b-88bc-4c79-84e6-a922f5c21bf9" />
+  <img width="200" src="https://github.com/user-attachments/assets/aa5255f1-67d1-47ff-8652-25df8c600df0" />
 </p>
 <p float="left">
-  <img src="Screenshots/09-profile.png" width="200" />
+  <img width="200" src="https://github.com/user-attachments/assets/389eaf50-acde-4f4e-be61-30ae5aba128b" />
+  <img width="200" src="https://github.com/user-attachments/assets/df573609-c5fb-4cbf-b4fe-af6a9be54143" />
 </p>
 
-> Las screenshots actuales son placeholders. Reemplazar con capturas reales desde Xcode Simulator (⌘S).
 
 ## MVPs
 
